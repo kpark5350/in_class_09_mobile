@@ -84,4 +84,3 @@ One important part was understanding how a database upgrade works without removi
 - Flutter Documentation
 - sqflite Package Documentation
 - Activity 09 Lecture Notes
-- [Add any AI assistance used, if applicable]
